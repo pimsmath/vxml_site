@@ -5,8 +5,8 @@ active: true
 weight: 10
 title: PIMS Virtual Experimental Mathematics Lab (VXML)
 cta:
-  url: https://ubc.ca1.qualtrics.com/survey-builder/SV_6MCdZFDzYmkNJci/edit
-  label: Get involved
+  url: '#get-involved'
+  label: Get involved...
 
 design:
   background:
@@ -19,4 +19,4 @@ and postdocs with undergraduate students across PIMS sites to work on
 challenging and exciting research mathematics questions.
 
 If you are a faculty member, postdoc or undergraduate student at a PIMS member
-university and you want to get involved, please get in touch.
+university and you want to get involved, please get in touch!
