@@ -26,7 +26,7 @@
     Content-Type = "application/rss+xml"
 
 [[ redirects ]]
-  from = "/apply-project
+  from = "/apply-project"
   to   = "https://ubc.ca1.qualtrics.com/jfe/form/SV_0pSTsYEcg9DWqtU"
 
 [[ redirects ]]
