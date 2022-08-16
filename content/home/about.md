@@ -35,9 +35,9 @@ universities. In addition, the PIMS VXML leverages the distributed structure of
 PIMS to bring together more dispersed and diverse groups to work on a broad
 range of topics.
 
-#### Axioms of VXML
-The WXML strongly believes in [Federico Ardila-Mantilla’s
-axioms](http://math.sfsu.edu/federico/Articles/noticesfinal.pdf):
+#### The Axioms of VXML
+The VXML strongly believes in [Federico Ardila-Mantilla’s
+axioms <i class="fa-solid fa-file-pdf"></i>](http://math.sfsu.edu/federico/Articles/noticesfinal.pdf):
 
   * **Axiom 1**: Mathematical talent is distributed equally among different
     groups, irrespective of geographic, demographic, and economic boundaries.

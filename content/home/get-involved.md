@@ -11,7 +11,7 @@ section below and get in touch. We anticipate supporting 4-5 projects each year
 with each project consisting of a faculty member or postdoc, a graduate mentor
 and 2-4 undergraduates.
 
-## Get involved as... an Undergraduate
+### Get involved as... an Undergraduate
 PIMS VXML is all about getting undergraduate students involved in research
 mathematics. Motivated students will work with leading researchers on exciting
 projects and perform cutting edge mathematical research.
@@ -26,7 +26,7 @@ list of potential projects.
 {{< cta cta_text="Apply"
 cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" cta_new_tab="false" >}}
 
-## Get involved as... a Faculty Member or Postdoc
+### Get involved as... a Faculty Member or Postdoc
 Any faculty member or postdoctoral researcher at a PIMS Member or Affiliate
 Member University can propose projects for the VXML program.  From prior
 experience, successful projects usually have some computational element that
@@ -48,7 +48,7 @@ cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_0pSTsYEcg9DWqtU" cta_new_tab
 Project submissions are open until **September 16th**.
 
 
-## Get involved as... a Graduate Student Mentor
+### Get involved as... a Graduate Student Mentor
 
 Graduate students mentors work closely with their faculty lead and the
 undergraduate students, providing an anchor for the project. You must be a
