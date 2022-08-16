@@ -7,14 +7,14 @@ main:
   - name: Home
     url: '#hero'
     weight: 10
-  - name: Get Involved
-    url: '#get-involved'
-    weight: 20
   - name: Projects
     url: '#projects'
     weight: 30
   - name: About
     url: '#about'
+    weight: 20
+  - name: Get Involved
+    url: '#get-involved'
     weight: 40
   - name: Contact
     url: '#contact'
