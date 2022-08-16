@@ -26,6 +26,8 @@ list of potential projects.
 {{< cta cta_text="Apply"
 cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" cta_new_tab="false" >}}
 
+Student applications are open until **October 15th**
+
 ### Get involved as... a Faculty Member or Postdoc
 Any faculty member or postdoctoral researcher at a PIMS Member or Affiliate
 Member University can propose projects for the VXML program.  From prior
@@ -63,5 +65,3 @@ undergraduate research in the mathematical sciences via the VXML.
 
 {{< cta cta_text="Be a mentor"
 cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" cta_new_tab="false" >}}
-
-
