@@ -17,10 +17,10 @@ mathematics as a creative discipline.
 Research problems are proposed by a faculty member or postdoc at a PIMS member
 (or affilate member) university, and a project team consisting of the mentor, a
 graduate student and 2-4 undergraduate students are formed to work on the
-problem. The team commits 6-8 hours per week to work on the project and to meet
-to discuss their discoveries. Students will use a mixture of computational tools
-such as [CoCalc (Sage Math Cloud)](https://cocalc.com/), to work and
-collaborate.
+problem. We encourage teams that integrate members from multiple PIMS sites.
+Teams commit 6-8 hours per week to work on the project and to meet to discuss
+their discoveries. Students will use a mixture of computational tools such as
+[CoCalc (Sage Math Cloud)](https://cocalc.com/), to work and collaborate.
 
 At the end of the year, we arrange an open-house event where discoveries can be
 showcased and any results presented. The laboratory is virtual so participants
