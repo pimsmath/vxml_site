@@ -17,12 +17,12 @@ mathematics as a creative discipline.
 Research problems are proposed by a faculty member or postdoc at a PIMS member
 (or affilate member) university, and a project team consisting of the mentor, a
 graduate student and 2-4 undergraduate students are formed to work on the
-problem. We encourage teams that integrate members from multiple PIMS sites.
+problem (we encourage teams that integrate members from multiple PIMS sites).
 Teams commit 6-8 hours per week to work on the project and to meet to discuss
 their discoveries. Students will use a mixture of computational tools such as
 [CoCalc (Sage Math Cloud)](https://cocalc.com/), to work and collaborate.
 
-At the end of the year, we arrange an open-house event where discoveries can be
+At the end of the year there is an open-house event where discoveries can be
 showcased and any results presented. The laboratory is virtual so participants
 can join from anywhere in the PIMS network of universities and the projects
 focus on experimentation and discovery.
@@ -32,8 +32,8 @@ focus on experimentation and discovery.
 The PIMS VXML builds on the success of the [Washington Experimental Mathematical
 Laboratory](https://wxml.math.washington.edu) and similar initiatives at other
 universities. In addition, the PIMS VXML leverages the distributed structure of
-PIMS to bring together more dispersed and diverse groups to work on a broad
-range of topics.
+PIMS to bring together more dispersed and diverse teams to contribute and work
+on the projects.
 
 #### The Axioms of VXML
 The VXML strongly believes in [Federico Ardila-Mantilla’s
