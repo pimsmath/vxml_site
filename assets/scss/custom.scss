@@ -27,3 +27,14 @@ p.cta-btns {
         color: white;
     }
 }
+
+ul.cta-group {
+    li {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        a {
+            width: 100%;
+        }
+    }
+}
