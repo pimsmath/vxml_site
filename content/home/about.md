@@ -29,8 +29,8 @@ focus on experimentation and discovery.
 
 
 ### About XML
-The PIMS VXML builds on the success of the [Washington Experimental Mathematical
-Laboratory](https://wxml.math.washington.edu) and similar initiatives at other
+The PIMS VXML builds on the success of the [Washington eXperimental Mathematical
+Laboratory (WXML)](https://wxml.math.washington.edu) and similar initiatives at other
 universities. In addition, the PIMS VXML leverages the distributed structure of
 PIMS to bring together more dispersed and diverse teams to contribute and work
 on the projects.

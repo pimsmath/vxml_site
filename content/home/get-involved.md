@@ -27,10 +27,9 @@ Upon completion, undergraduate team members will receive a certificate from PIMS
 attesting to their participation in undergraduate research in the mathematical
 sciences via the VXML.
 
-{{< cta cta_text="Apply"
-cta_link="https://vxml.pims.math.ca/apply-undergrad" cta_new_tab="false" >}}
+{{< cta-disabled cta_text="Apply (not yet open)" >}}
 
-Student applications are open until **October 15th**
+Student applications will be open soon and will be open until **October 15th**
 
 
 ### Get involved as... a Faculty Member or Postdoc
@@ -67,5 +66,4 @@ Graduate student mentors will receive a modest ($500 CAD) stipend, for their
 participation.
 
 
-{{< cta cta_text="Be a mentor"
-cta_link="https://vxml.pims.math.ca/apply-graduate" cta_new_tab="false" >}}
+{{< cta-disabled cta_text="Be a mentor (not yet open)" >}}

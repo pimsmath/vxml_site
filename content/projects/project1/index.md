@@ -2,6 +2,7 @@
 title: "Project1"
 subtitle: "Genetic Algorithms for Hyperparameter Tuning"
 date: 2022-08-15T17:10:20-07:00
+draft: true
 summary: |
   Tuning hyperparameters for machine learning algorithms can be a long,
   expensive and difficult process. Genetic algorithms can leverage the power of
