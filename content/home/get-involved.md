@@ -24,7 +24,7 @@ you'll be asked to tell us about your mathematical interests and pick from a
 list of potential projects.
 
 {{< cta cta_text="Apply"
-cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" cta_new_tab="false" >}}
+cta_link="https://vxml.pims.math.ca/apply-undergrad" cta_new_tab="false" >}}
 
 Student applications are open until **October 15th**
 
@@ -45,7 +45,7 @@ get the process started.  Please don't hesitate to contact us if you have
 questions about proposing a project. 
 
 {{< cta cta_text="Propose a project"
-cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_0pSTsYEcg9DWqtU" cta_new_tab="false" >}}
+cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
 
 Project submissions are open until **September 16th**.
 
@@ -64,4 +64,4 @@ project in March, a certificate from PIMS attesting to their participation in
 undergraduate research in the mathematical sciences via the VXML. 
 
 {{< cta cta_text="Be a mentor"
-cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" cta_new_tab="false" >}}
+cta_link="https://vxml.pims.math.ca/apply-graduate" cta_new_tab="false" >}}
