@@ -63,7 +63,7 @@ His research interests include analytic number theory, typically problems
 stemming from classical multiplicative number theory using complex analytic and
 "anatomy of integers" techniques. He is also interested in understanding,
 engaging with, and improving equity, diversity, and inclusion (EDI) at UBC and
-beyond, and he is the Chair of the Mathematics Department's EDI Committee.
+beyond, and former Chair of the Mathematics Department's EDI Committee.
 
 He is a two-time winner of the MAA's Lester R. Ford Award and a winner of a UBC
 Faculty of Science Killam Teaching Prize.
