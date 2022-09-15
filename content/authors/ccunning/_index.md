@@ -14,8 +14,8 @@ role: Professor of Mathematics, University of Calgary
 
 # Organizations/Affiliations
 organizations:
- - name: University of British Columbia
-   url: "https://ubc.ca"
+ - name: University of Calgary
+   url: "https://ucalgary.ca"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: (`add a short bio in authors/carolinecolijn`)
