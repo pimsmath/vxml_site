@@ -48,8 +48,5 @@ email: "jfrichey@math.ubc.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
-Jacob Richey is a postdoctoral researcher in the mathematics department at UBC.
-His research is in combinatorial probability. Recently, his research has been
-focused on two interacting particle systems (ARW and the parking process), and a
-recovery problem for simple random walk.
 
+Jacob Richey is a postdoctoral researcher in the mathematics department at UBC. His research is in combinatorial probability, including projects related to stochastic particle systems, random walks, and random matrix theory.
