@@ -7,9 +7,11 @@ authors:
   - rayan
 draft: false
 summary: |
-  In this project, students will look at the subspaces preserved by matrices.
-  This has applications in linear algebra, control theory and statistical
-  inference and is also theoretically significant.
+  Topological Data Analysis (TDA) applies classical methods of algebraic
+  topology to investigate and make inferences about the topology of (possibly
+  large/complex) data sets. In this project, students will learn the
+  fundamentals of topological data analysis and apply them to areas of current
+  interest at the interface of geometry, topology and physics.
 url_code: ""
 url_pdf: ""
 url_slides: ""
