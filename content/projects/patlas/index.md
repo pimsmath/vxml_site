@@ -1,6 +1,6 @@
 ---
 title: "p-Atlas"
-subtitle: "Genetic Algorithms for Hyperparameter Tuning"
+subtitle: ""
 date: 2022-08-15T17:10:20-07:00
 authors:
 - ccunning

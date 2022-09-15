@@ -23,6 +23,7 @@ organizations:
 interests:
   - Number Theory
   - Topology and Arithmetic Geometry
+  - Representation Theory
 
 education:
   courses:
