@@ -51,6 +51,19 @@ email: "rayan@math.usask.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
-Steven Rayan is a Professor and NSERC, NFRF, and CFI-supported researcher in the [Department of Mathematics & Statistics](https://math.usask.ca/) at the [University of Saskatchewan](https://usask.ca/), which is located on [Treaty 6 Territory and the Homeland of the Métis](https://indigenous.usask.ca/indigenization-reconciliation/Land-Acknowledgement.php). I am a faculty member of both the [College of Arts & Science](https://artsandscience.usask.ca/) and the [College of Graduate & Postdoctoral Studies](https://cgps.usask.ca/). I am the lead for the University's [Signature Area of Research in Quantum Innovation](https://vpresearch.usask.ca/initiatives/signature-areas-of-research.php) and the Director of the [Centre for Quantum Topology and Its Applications (quanTA)](https://artsandscience.usask.ca/quanta/).  I am also the University's [Director of Interdisciplinary Programming](https://cgps.usask.ca/contact-us/deans-message/college-leadership.php).
+Steven Rayan is a Professor and NSERC, NFRF, and CFI-supported researcher in the
+[Department of Mathematics & Statistics](https://math.usask.ca/) at the
+[University of Saskatchewan](https://usask.ca/), which is located on [Treaty 6
+Territory and the Homeland of the
+Métis](https://indigenous.usask.ca/indigenization-reconciliation/Land-Acknowledgement.php).
+He is a faculty member of both the [College of Arts &
+Science](https://artsandscience.usask.ca/) and the [College of Graduate &
+Postdoctoral Studies](https://cgps.usask.ca/). He is the lead for the
+University's [Signature Area of Research in Quantum
+Innovation](https://vpresearch.usask.ca/initiatives/signature-areas-of-research.php)
+and the Director of the [Centre for Quantum Topology and Its Applications
+(quanTA)](https://artsandscience.usask.ca/quanta/).  He is also the University's
+[Director of Interdisciplinary
+Programming](https://cgps.usask.ca/contact-us/deans-message/college-leadership.php).
 
 

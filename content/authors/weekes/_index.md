@@ -60,12 +60,12 @@ mathematics, and focuses on representation theory, algebra, algebraic geometry,
 and mathematical physics.  You can find more information on his [Research
 page](https://researchers.usask.ca/alex-weekes/research.php).
 
-He completed my PhD in 2016 at the University of Toronto, under the supervision
-of [Joel Kamnitzer](https://www.math.toronto.edu/jkamnitz/).  I was a
+Alex completed my PhD in 2016 at the University of Toronto, under the supervision
+of [Joel Kamnitzer](https://www.math.toronto.edu/jkamnitz/). He was a
 postdoctoral researcher at the [Perimeter Institute for Theoretical
-Physics](https://perimeterinstitute.ca/) from 2016-2019, where my mentor was
+Physics](https://perimeterinstitute.ca/) from 2016-2019, where his mentor was
 [Alexander Braverman](https://perimeterinstitute.ca/people/alexander-braverman).
-From 2019-2021 I was a postdoctoral fellow at the [University of British
+From 2019-2021 he was a postdoctoral fellow at the [University of British
 Columbia](https://www.math.ubc.ca/), under [Kai
 Behrend](https://personal.math.ubc.ca/~behrend/), [Jim
 Bryan](https://personal.math.ubc.ca/~jbryan/), and [Sabin

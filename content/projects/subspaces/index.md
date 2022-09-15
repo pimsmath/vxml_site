@@ -18,9 +18,9 @@ url_video: ""
 ---
 
 ## Project Leader
-  * [Steven Rayan](/authors/rayan/), University of Saksatchewan
-  * [Alex Weekes](/authors/weekes/), University of Saksatchewan
-  * [Curtis Wendlandt](/authors/wendlandt/), University of Saksatchewan
+  * [Steven Rayan](/authors/rayan/), University of Saskatchewan
+  * [Alex Weekes](/authors/weekes/), University of Saskatchewan
+  * [Curtis Wendlandt](/authors/wendlandt/), University of Saskatchewan
 
 ## Problem Statement
 
