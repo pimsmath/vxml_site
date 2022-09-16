@@ -52,7 +52,7 @@ email: "Margherita.Ferrari@umanitoba.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
-Maria Margherita Ferrari is an Assistant Professor in the Department of
+Margherita Maria Ferrari is an Assistant Professor in the Department of
 Mathematics at the University of Manitoba. Previously, she was a Postdoctoral
 Scholar Research in the Department of Mathematics and Statistics at the
 University of South Florida and a member of the Southeast Center for Mathematics
