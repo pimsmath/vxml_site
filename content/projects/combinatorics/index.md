@@ -7,10 +7,10 @@ authors:
   - ferrari
 draft: false
 summary: |
-  In this project, students will apply techniques from knot theory to address
-  questions about the geometry and topology of 3-stranded polymers such as
-  R-loops. An R-loop is a 3 stranded structure composed of a DNA-RNA complex and
-  another single strand of DNA.
+  In this project, students will develop techniques from knot theory and
+  combinatorics to address questions about the geometry and topology of
+  3-stranded polymers such as R-loops. An R-loop is a 3 stranded structure
+  composed of a DNA-RNA complex and another single strand of DNA.
 url_code: ""
 url_pdf: ""
 url_slides: ""
