@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true
-active: true
+active: false
 weight: 1
 title: >-
    The PIMS VXML is now accepting project proposals from PIMS faculty members
