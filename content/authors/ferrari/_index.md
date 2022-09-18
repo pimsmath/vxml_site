@@ -22,16 +22,16 @@ organizations:
 
 interests:
   - Graph Theory
-  - Combinatorics on Words (with applications to DNA recombination and DNA:RNA interactions)
+  - Combinatorics on Words
   - Enumerative Combinatorics
 
 education:
   courses:
   - course: Ph.D. in Mathematical Models and Methods in Engineering
     institution: Politecnico di Milano
-  - course: M.S. cum laude in Mathematics 
+  - course: M.S. in Mathematics 
     institution: Università degli studi di Modena e Reggio Emilia
-  - course: B.S. cum laude in Mathematics
+  - course: B.S. in Mathematics
     institution: Università degli studi di Modena e Reggio Emilia
 
 # Social/Academic Networking
