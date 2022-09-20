@@ -12,7 +12,7 @@ draft: false
 #  3-stranded polymers such as R-loops. An R-loop is a 3 stranded structure
 #  composed of a DNA-RNA complex and another single strand of DNA.
 url_code: ""
-url_pdf: ""
+url_pdf: "proposal.pdf"
 url_slides: ""
 url_video: ""
 ---
@@ -26,11 +26,11 @@ The Smith Normal Forms (SNF) of an incidence matrix is a powerful invariant that
 may help distinguish the underlying incidence structure. Of special interest is
 the SNF of the Laplacian matrix of a graph. This comes up in the context of the
 popular chip-firing game. This game was introduced by Bjorner et al. Fix a graph
-on n vertices and start by putting chips $a\left\{i\right\}$ at the $i$th
-vertex. So $a=(a\left{1\right\}, ...
-a\left\{i\right\}, ... , a\left\{n\right\}) is in Z_\left\{+\right\}^{n}, let N
-be the sum of $a\left\{i\right\}'s. Each step
-involves firing a vertex v, that is, one chip from $v$ goes to each of its
+on n vertices and start by putting chips $a\left\\{i\right\\}$ at the $i$th
+vertex. So $a=(a\left\\{1\right\\}, ...
+a\left\\{i\right\\}, ... , a\left\\{n\right\\})$ is in $Z_\left\\{+\right\\}^{n}$, let $N$
+be the sum of $a\left\\{i\right\\}$'s. Each step
+involves firing a vertex $v$, that is, one chip from $v$ goes to each of its
 adjacent vertices. A vertex $v$ can be fired if the number of chips currently held
 at $v$ is at least the degree of $v$. A position of size $N$ on $G$ is a distribution of
 $N$ chips to vertices of $G$. A legal game is any sequence of positions, such that
@@ -51,6 +51,8 @@ been many papers computing the critical groups of various classes of SRGs. Quite
 a few of these have been coauthored by undergraduate researchers. Participating
 in this program will be encouraged to pick a class of SRGs and perform computer
 experiments to conjecture the structure of critical group
+
+For more details please see the [full project proposal](proposal.pdf).
 
 ### Details
   * **Expected team size**: 3
