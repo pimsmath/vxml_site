@@ -50,7 +50,7 @@ email: "Masha.Nasrollahishirazi@umanitoba.ca"
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
 
-Mahsa is a postdoctoral fellow at the University of Regina. Her research is 
+Mahsa is a postdoctoral fellow at the University of Manitoba. Her research is 
 centred around using graph theory to answer questions that arise in design
 theory. In particular, her main PhD research was on the extensions of the famous
 Erdős-Ko-Rado theorem to t-intersecting families of perfect matchings in graphs.
