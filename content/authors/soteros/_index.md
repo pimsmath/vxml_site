@@ -52,14 +52,10 @@ email: "soteros@math.usask.ca"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 ---
-Chris Soteros is a Professor of Mathematics at the University of Saskatchewan
+Chris Soteros is a Professor of Mathematics and Statistics at the University of Saskatchewan
 and the PIMS Site Director for the University of Saskatchewan site. Her research
 involves mathematical models of chemical and biological systems with a  focus on
 understanding polymers (long chain molecules) in solution.  She uses
 coarse-grained lattice models to represent the possible shapes or configurations
 that the polymers can take and often studies questions about the probability of
 knots or links with applications to understanding DNA topology experiments.
-
-Her
-research involves the folding and packing behavior of DNA, proteins, and other
-string-like biomolecules, and the knot theory of random space curves.
