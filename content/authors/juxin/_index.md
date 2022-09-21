@@ -21,11 +21,10 @@ organizations:
 # bio: (`add a short bio in authors/carolinecolijn`)
 
 interests:
-- Spatial, Temporal and Longitudinal Data Analysis
-- Interactions in regression models.
 - Errors-in-variables models.
-- Markov chain Monte Carlo (MCMC) methodology
-- Causal effect analysis motivated from epidemiological studies, spatial statistics problems motivated from remote sensing, and stochastic process modeling with application to genetics, biology, and epidemiology
+- Sequential Monte Carlo methods.
+- Missing data analysis.
+- Interactions in regression models.
 
 education:
   courses:
