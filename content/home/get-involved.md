@@ -27,7 +27,7 @@ Upon completion, undergraduate team members will receive a certificate from PIMS
 attesting to their participation in undergraduate research in the mathematical
 sciences via the VXML.
 
-{{< cta-disabled cta_text="Apply (not yet open)" >}}
+{{< cta cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
 
 Student applications will be open soon and will be open until **October 15th**
 
@@ -48,7 +48,7 @@ If you have an idea for a project please complete the project proposal form to
 get the process started.  Please don't hesitate to contact us if you have
 questions about proposing a project. 
 
-{{< cta cta_text="Propose a project"
+{{< cta-disabled cta_text="Propose a project (closed)"
 cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
 
 Project submissions are open until **September 16th**.
@@ -66,4 +66,5 @@ Graduate student mentors will receive a modest ($500 CAD) stipend, for their
 participation.
 
 
-{{< cta-disabled cta_text="Be a mentor (not yet open)" >}}
+{{< cta cta_text="Be a mentor"
+cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" >}}
