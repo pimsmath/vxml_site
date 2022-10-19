@@ -27,9 +27,9 @@ Upon completion, undergraduate team members will receive a certificate from PIMS
 attesting to their participation in undergraduate research in the mathematical
 sciences via the VXML.
 
-{{< cta cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
+{{< cta-disabled cta_text="Apply (not currently open)" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
 
-Student applications will be open soon and will be open until **October 15th**
+Student applications closed on **October 15th**.
 
 
 ### Get involved as... a Faculty Member or Postdoc
@@ -48,10 +48,10 @@ If you have an idea for a project please complete the project proposal form to
 get the process started.  Please don't hesitate to contact us if you have
 questions about proposing a project. 
 
-{{< cta-disabled cta_text="Propose a project (closed)"
+{{< cta-disabled cta_text="Propose a project (not currently open)"
 cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
 
-Project submissions are open until **September 16th**.
+Project submissions closed on **September 16th**.
 
 
 ### Get involved as... a Graduate Student Mentor
@@ -68,3 +68,4 @@ participation.
 
 {{< cta cta_text="Be a mentor"
 cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" >}}
+
