@@ -4,7 +4,7 @@ subtitle: ""
 date: 2022-08-15T17:10:20-07:00
 authors:
 - richey
-draft: false
+draft: true
 summary: |
   This project will look at a variant of "Pólya's orchard problem". You will
   use simulation and probability to determine lines of sight in a mathematical

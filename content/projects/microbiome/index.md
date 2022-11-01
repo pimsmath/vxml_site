@@ -4,7 +4,7 @@ subtitle: ""
 date: 2022-08-15T17:10:20-07:00
 authors:
   - juxin
-draft: false
+draft: true
 summary: |
   In this project, students will tackle the problem of handling zeros in
   sequencing data to try to overcome limitations in modern sequencing
