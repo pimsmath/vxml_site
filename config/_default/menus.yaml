@@ -16,6 +16,9 @@ main:
   - name: Get Involved
     url: '#get-involved'
     weight: 40
+  - name: Resources
+    url: '/students/'
+    weight: 45
   - name: Contact
     url: '#contact'
     weight: 50

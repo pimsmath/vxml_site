@@ -1,7 +1,7 @@
 <ul class="cta-group">
   {{ if (.Get "cta_text") }}
   <li>
-    <a class="btn btn-primary px-3 py-3" role="button" aria-disabled="true">{{ (.Get "cta_text") | markdownify | emojify }}</a>
+    <a class="btn btn-primary px-3 py-3" role="button" href="{{ (.Get "cta_link") }}">{{ (.Get "cta_text") | markdownify | emojify }}</a>
   </li>
   {{ end }}
 </ul>
