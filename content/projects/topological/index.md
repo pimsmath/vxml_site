@@ -22,6 +22,13 @@ url_video: ""
   * [Derek Krepski](/authors/krepski/), University of Manitoba
   * [Steven Rayan](/authors/rayan/), University of Saskatchewan
 
+### Graduate Mentor
+  * Dinamo Djounvouna, University of Manitoba
+
+### Undergraduate Team Members
+  * Pratham Lalwani, University of Northern British Columbia
+  * Zhikai Chen, University of Alberta
+
 ## Problem Statement
 
 Topological Data Analysis (TDA) applies classical methods of algebraic topology

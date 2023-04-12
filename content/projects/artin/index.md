@@ -19,6 +19,14 @@ url_video: ""
 ## Project Leader
   * [Greg Martin](/authors/gerg/), University of British Columbia
 
+### Graduate Mentor
+  * Chi Hoi Yip, University of British Columbia
+
+### Undergraduate Team Members
+  * Khaled Hamdy Elgohary, University of Manitoba
+  * Marcus Lai, University of British Columbia
+  * Tiansui Wu, University of British Columbia
+
 ## Problem Statement
 
 The multiplicative order of a fixed integer a modulo the prime p must divide

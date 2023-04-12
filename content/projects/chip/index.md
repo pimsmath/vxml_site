@@ -21,6 +21,14 @@ url_video: ""
   * [Venkata Raghu Tej Pantangi](/authors/raghu/), University of Lethbridge
   * [Mahsa N Shirazi](/authors/shirazi/), University of Manitoba
 
+### Graduate Mentor
+  * Junaid Hasan, University of Washington
+
+### Undergraduate Team Members
+  * Jaskaran Singh, University of Manitoba
+  * Saeid Hooshyar, University of Regina
+  * Anu Singh, University of Saskatchewan
+
 ## Problem Statement
 The Smith Normal Forms (SNF) of an incidence matrix is a powerful invariant that
 may help distinguish the underlying incidence structure. Of special interest is

@@ -18,6 +18,14 @@ url_video: ""
 ## Project Leader
   * [Li Xing](/authors/lixing/), University of Saskatchewan
 
+### Graduate Mentor
+  * Kyle Gardiner, University of Saskatchewan
+
+### Undergraduate Team Members
+  * Hanye Zhong, University of British Columbia
+  * Matthew Zbitniff, University of Saskatchewan
+  * Roham Asgari, University of Saskatchewan
+
 ## Problem Statement
 
 We will work on large-scale genomic data from the Alzheimer's Disease

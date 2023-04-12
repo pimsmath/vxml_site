@@ -18,6 +18,13 @@ url_video: ""
 ## Project Leader
   * [Clifton Cunningham](/authors/ccunning/), University of Calgary
 
+### Graduate Mentor
+  * Kristaps Balodis, University of Calgary
+
+### Undergraduate Team Members
+  * E Thompson, University of Calgary
+  * Iretomiwa Ajala, University of Calgary
+
 ## Problem Statement
 
 This project develops a fundamental tool for representation theory of p-adic
@@ -72,4 +79,3 @@ members of the Voganish Project (http://automorphic.ca) and therefore have
 access and exposure to an international research community already including
 undergraduates, graduate students, postdocs and professors.
 
-  

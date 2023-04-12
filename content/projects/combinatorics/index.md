@@ -17,9 +17,15 @@ url_slides: ""
 url_video: ""
 ---
 
-## Project Leader
+## Project Leaders
   * [Margherita Maria Ferrari](/authors/ferrari/), University of Manitoba
   * [Chris Soteros](/authors/soteros/), University of Saskatchewan
+
+### Undergraduate Team Members
+  * Mingze Sun, University of Alberta
+  * Mykyta Shvets, University of Saskatchewan
+  * Jean Li, University of Saskatchewan
+  * Yanze Song, University of Alberta
 
 ## Problem Statement
 

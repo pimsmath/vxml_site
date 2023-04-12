@@ -22,6 +22,14 @@ url_video: ""
   * [Alex Weekes](/authors/weekes/), University of Saskatchewan
   * [Curtis Wendlandt](/authors/wendlandt/), University of Saskatchewan
 
+### Graduate Mentor
+  * Jason Gilbert, University of Saskatchewan
+
+### Undergraduate Team Members
+  * Karen Fletcher, Athabasca University
+  * Soham Lakhi, University of British Columbia
+  * Bassam Nima, University of Alberta
+
 ## Problem Statement
 
 One of the most fundamental problems in linear algebra is that of finding the
