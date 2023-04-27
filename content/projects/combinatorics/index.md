@@ -25,7 +25,6 @@ url_video: ""
   * Mingze Sun, University of Alberta
   * Mykyta Shvets, University of Saskatchewan
   * Jean Li, University of Saskatchewan
-  * Yanze Song, University of Alberta
 
 ## Problem Statement
 

@@ -23,7 +23,6 @@ url_video: ""
 
 ### Undergraduate Team Members
   * E Thompson, University of Calgary
-  * Iretomiwa Ajala, University of Calgary
 
 ## Problem Statement
 

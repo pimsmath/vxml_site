@@ -17,7 +17,6 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
 ## Project Leader
   * [Derek Krepski](/authors/krepski/), University of Manitoba
   * [Steven Rayan](/authors/rayan/), University of Saskatchewan
