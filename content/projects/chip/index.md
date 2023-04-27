@@ -26,7 +26,6 @@ url_video: ""
 
 ### Undergraduate Team Members
   * Jaskaran Singh, University of Manitoba
-  * Saeid Hooshyar, University of Regina
   * Anu Singh, University of Saskatchewan
 
 ## Problem Statement
