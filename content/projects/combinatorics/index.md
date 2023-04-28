@@ -21,6 +21,9 @@ url_video: ""
   * [Margherita Maria Ferrari](/authors/ferrari/), University of Manitoba
   * [Chris Soteros](/authors/soteros/), University of Saskatchewan
 
+### Postdoctoral Mentor
+  * Matthew Schmirler, University of Saskatchewan
+
 ### Undergraduate Team Members
   * Mingze Sun, University of Alberta
   * Mykyta Shvets, University of Saskatchewan
