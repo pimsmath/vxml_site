@@ -12,7 +12,7 @@ draft: false
 #  3-stranded polymers such as R-loops. An R-loop is a 3 stranded structure
 #  composed of a DNA-RNA complex and another single strand of DNA.
 url_code: ""
-url_pdf: "proposal.pdf"
+#url_pdf: "/projects/chip/chip-proposal.pdf"
 url_slides: ""
 url_video: ""
 ---

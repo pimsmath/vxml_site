@@ -13,6 +13,9 @@ url_code: ""
 url_pdf: "/projects/patlas/pAtlas-paper.pdf"
 url_poster: "pAtlas-poster.pdf"
 url_video: ""
+
+image:
+  caption: "[Poster for \"p-Atlas\" project](pAtlas-poster.pdf)"
 ---
 
 ## Project Leader
@@ -54,6 +57,13 @@ international, vertically integrated research group with faculty in Canada, USA,
 France, Korea and China. The PIMS XVMLab format is a perfect fit for this
 community, to recruit and expand and to develop new computational tools for the
 Langlands program.
+
+### Final Report
+
+This VXML project was completed by the participants listed above as described in the following documents:
+
+  * [Final Report (pdf)](./pAtlas-paper.pdf)
+  * [Poster (pdf)](pAtlas-poster.pdf)
 
 ### Details
   * Expected team size: 3

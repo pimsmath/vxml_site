@@ -13,9 +13,16 @@ summary: |
   fundamentals of topological data analysis and apply them to areas of current
   interest at the interface of geometry, topology and physics.
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "/projects/topological/topological-paper.pdf"
+url_poster: "topological-poster.pdf"
 url_video: ""
+
+image:
+  caption: "[Poster for \"Topological Data Analysis\"](./topological-poster.pdf)"
+  focus: top
+  preview_only: false
+  alt_text: Poster for Topological data analysis
+
 ---
 ## Project Leader
   * [Derek Krepski](/authors/krepski/), University of Manitoba
@@ -54,6 +61,13 @@ mathematical subjects in general. Students will also encounter, for instance,
 aspects of linear algebra and other core courses that are less emphasized in
 traditional undergraduate course offerings.
 
+### Final Report
+
+This VXML project was completed by the participants listed above, as described
+in the following documents
+
+  * [Final Report (pdf)](./topological-paper.pdf)
+  * [Poster (pdf)](./topological-poster.pdf)
 
 ### Details
   * **Expected team size**: 2

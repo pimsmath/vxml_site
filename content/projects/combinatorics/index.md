@@ -12,7 +12,7 @@ summary: |
   3-stranded polymers such as R-loops. An R-loop is a 3 stranded structure
   composed of a DNA-RNA complex and another single strand of DNA.
 url_code: ""
-url_pdf: ""
+url_pdf: "/projects/combinatorics/combinatorics-paper.pdf"
 url_slides: ""
 url_video: ""
 ---
@@ -59,6 +59,14 @@ lattice tube using transfer matrix methods. These approaches will be adapted to
 address the 3-stranded case in this project. The ultimate goal will be to
 integrate the different mathematical approaches of the mentors to obtain
 improved mathematical models of R-loops.
+
+
+### Final Report
+
+This VXML project was completed by the participants listed above, as described
+in the following documents
+
+  * [Final Report (pdf)](./combinatorics-paper.pdf)
 
 ### Details
   * **Expected team size**: 4

@@ -12,9 +12,15 @@ summary: |
   This has applications in linear algebra, control theory and statistical
   inference and is also theoretically significant.
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "/projects/subspaces/subspaces-paper.pdf"
+url_poster: "subspaces-poster.pdf"
 url_video: ""
+
+image:
+  caption: "[Poster for \"Subspaces Preserved by a Matrix\"](./subspaces-poster.pdf)"
+  focus: top
+  preview_only: false
+  alt_text: "Poster for Subspaces preserved by a matrix"
 ---
 
 ## Project Leader
@@ -48,6 +54,16 @@ Putting aside the applications, the central problem itself only requires a
 working knowledge of linear algebra. Students involved in the project will
 sharpen their understanding of linear algebra and become adept at computations
 that are less explored in typical undergraduate linear algebra classes.
+
+
+### Final Report
+
+This VXML project was completed by the participants listed above, as described
+in the following documents
+
+  * [Final Report (pdf)](./subspaces-paper.pdf)
+  * [Poster (pdf)](./subspaces-poster.pdf)
+
 
 ### Details
   * **Expected team size**: 2

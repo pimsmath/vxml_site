@@ -11,9 +11,15 @@ summary: |
   their relative frequencies.
 
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_poster: "artin-poster.pdf"
+url_pdf: "/projects/artin/artin-paper.pdf"
 url_video: ""
+
+image:
+  caption: "[Poster for \"Generalizations of Artin's Constant\"](artin-poster.pdf)"
+  focal_point: "top"
+  preview_only: false
+  alt_text: Poster for Generalizations of Artin's constant
 ---
 
 ## Project Leader
@@ -25,7 +31,6 @@ url_video: ""
 ### Undergraduate Team Members
   * Khaled Hamdy Elgohary, University of Manitoba
   * Marcus Lai, University of British Columbia
-  * Tiansui Wu, University of British Columbia
 
 ## Problem Statement
 
@@ -45,6 +50,15 @@ is an infinite product over primes (whose constant term is the proportion
 predicted in Artin's conjecture). Students will also learn how to extract
 the relative frequencies from this generating function, as well as how to
 compute the resulting expressions to high precision.
+
+
+### Final Report
+
+This VXML project was completed by the participants listed above, as described
+in the following documents:
+
+  * [Final Report (pdf)](./artin-paper.pdf)
+  * [Poster (pdf)](./artin-poster.pdf)
 
 ### Details
   * **Expected team size**: 4

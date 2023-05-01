@@ -1,12 +1,11 @@
 ---
 widget: announcement
 headless: true
-active: false
+active: true
 weight: 1
 title: >-
-   The PIMS VXML is now accepting project proposals from PIMS faculty members
-   and Postdocs. To apply please fill out [this
-   form](https://ubc.ca1.qualtrics.com/jfe/form/SV_0pSTsYEcg9DWqtU) by September
-   15th.
+   The 2022-2023 edition of PIMS VXML is now complete. Please see the [projects
+   section](#projects) for details of the great work done by this year's
+   participants.
 ---
 

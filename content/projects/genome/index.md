@@ -10,9 +10,16 @@ summary: |
   machine learning model for prediction of multiple cognitive outcomes related
   to Alzheimer's Disease.
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "/projects/genome/Genome-paper.pdf"
+url_poster: "Genome-poster.pdf"
 url_video: ""
+
+image:
+  caption: "[Poster for \"Genome-wide association study on gene pathway identification and cognitive function prediction\"](./Genome-poster.pdf)"
+  focus: top
+  preview_only: false
+  alt_text: Poster for Genome-wide assosciation study on gene pathway identification and cognitive function prediction
+
 ---
 
 ## Project Leader
@@ -51,6 +58,15 @@ are expected to share their knowledge and brainstorm new ideas to solve
 difficulties. Those technical and soft skills will help them grow into data
 scientists. The research outputs will help diagnose and prevent diseases related
 to cognitive functions, such as Alzheimer's.
+
+
+### Final Report
+
+This VXML project was completed by the participants listed above, as described
+in the following documents
+
+  * [Final Report (pdf)](./Genome-paper.pdf)
+  * [Poster (pdf)](./Genome-poster.pdf)
 
 ### Details
   * **Expected team size**: 2
