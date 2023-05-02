@@ -5,6 +5,9 @@ date: 2022-08-15T17:10:20-07:00
 authors:
   - krepski
   - rayan
+  - djounvouna
+  - lalwani
+  - chen
 draft: false
 summary: |
   Topological Data Analysis (TDA) applies classical methods of algebraic

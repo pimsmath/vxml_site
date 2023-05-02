@@ -6,6 +6,10 @@ authors:
   - rayan
   - weekes
   - wendlandt
+  - gilbert
+  - fletcher
+  - lakhi
+  - nima
 draft: false
 summary: |
   In this project, students will look at the subspaces preserved by matrices.

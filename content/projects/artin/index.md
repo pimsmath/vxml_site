@@ -4,6 +4,9 @@ subtitle: ""
 date: 2022-08-15T17:10:20-07:00
 authors:
   - gerg
+  - yip
+  - elgohary
+  - lai
 draft: false
 summary: |
   In this project, students will carry out computations of the number of prime

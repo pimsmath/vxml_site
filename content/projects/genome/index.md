@@ -4,6 +4,10 @@ subtitle: ""
 date: 2022-08-15T17:10:20-07:00
 authors:
   - lixing
+  - gardiner
+  - zhong
+  - zbitniff
+  - asgari
 draft: false
 summary: |
   In this project students will work with large scale genomic data to extend a

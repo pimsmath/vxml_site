@@ -4,6 +4,8 @@ subtitle: ""
 date: 2022-08-15T17:10:20-07:00
 authors:
 - ccunning
+- balodis
+- thompson
 draft: false
 summary: |
   This project develops a fundamental tool for representation theory of p-adic
