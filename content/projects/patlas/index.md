@@ -16,6 +16,9 @@ url_video: ""
 
 image:
   caption: "[Poster for \"p-Atlas\" project](pAtlas-poster.pdf)"
+  focus: Top
+  alt_text: Poster for p-Atlas project
+
 ---
 
 ## Project Leader

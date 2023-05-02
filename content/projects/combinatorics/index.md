@@ -13,8 +13,14 @@ summary: |
   composed of a DNA-RNA complex and another single strand of DNA.
 url_code: ""
 url_pdf: "/projects/combinatorics/combinatorics-paper.pdf"
-url_slides: ""
+url_poster: "combinatorics-poster.pdf"
 url_video: ""
+
+image:
+  caption: "[Poster for \"Combinatorics and Knot Theory for RNA-DNA Complexes\"](./combinatorics-poster.pdf)"
+  focus: top
+  preview_only: false
+  alt_text: Poster for Combinatorics and Knot Theory for RNA-DNA Complexes
 ---
 
 ## Project Leaders
@@ -67,6 +73,7 @@ This VXML project was completed by the participants listed above, as described
 in the following documents
 
   * [Final Report (pdf)](./combinatorics-paper.pdf)
+  * [Poster (pdf)](./combinatorics-poster.pdf)
 
 ### Details
   * **Expected team size**: 4
