@@ -5,6 +5,9 @@ date: 2022-08-15T17:10:20-07:00
 authors:
   - raghu
   - shirazi
+  - hasan
+  - jsingh
+  - asingh
 draft: false
 #summary: |
 #  In this project, students will develop techniques from knot theory and
@@ -12,9 +15,15 @@ draft: false
 #  3-stranded polymers such as R-loops. An R-loop is a 3 stranded structure
 #  composed of a DNA-RNA complex and another single strand of DNA.
 url_code: ""
-#url_pdf: "/projects/chip/chip-proposal.pdf"
-url_slides: ""
+url_pdf: "/projects/chip/chip-paper.pdf"
+url_poster: "chip-poster.pdf"
 url_video: ""
+
+image:
+  caption: "[Poster for \"Chip Firing Games: Applications of the Smith Normal Forms of Combinatorial Matrices\"](./chip-poster.pdf)"
+  focus: top
+  preview_only: false
+  alt_text: Poster for Chip Firing Games
 ---
 
 ## Project Leader
@@ -60,6 +69,13 @@ in this program will be encouraged to pick a class of SRGs and perform computer
 experiments to conjecture the structure of critical group
 
 For more details please see the [full project proposal](proposal.pdf).
+
+### Final Report
+This VXML project was successfully completed by the participants listed above,
+as described in the following documents
+
+  * [Final Report (pdf)](./chip-paper.pdf)
+  * [Poster (pdf)](./chip-poster.pdf)
 
 ### Details
   * **Expected team size**: 3
