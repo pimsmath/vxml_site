@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matthew Zbitniff
+title: Mathew Zbitniff
 
 # Username (this should match the folder name)
 authors:
