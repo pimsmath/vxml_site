@@ -34,7 +34,7 @@ image:
 
 ### Undergraduate Team Members
   * Hanye Zhong, University of British Columbia
-  * Matthew Zbitniff, University of Saskatchewan
+  * Mathew Zbitniff, University of Saskatchewan
   * Roham Asgari, University of Saskatchewan
 
 ## Problem Statement
