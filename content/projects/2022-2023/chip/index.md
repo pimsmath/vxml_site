@@ -24,6 +24,8 @@ image:
   focus: top
   preview_only: false
   alt_text: Poster for Chip Firing Games
+tags:
+  - '2022-2023'
 ---
 
 ## Project Leader

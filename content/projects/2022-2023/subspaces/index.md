@@ -25,6 +25,9 @@ image:
   focus: top
   preview_only: false
   alt_text: "Poster for Subspaces preserved by a matrix"
+
+tags:
+  - '2022-2023'
 ---
 
 ## Project Leader

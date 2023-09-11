@@ -13,6 +13,11 @@ design:
 advanced:
   css_style: ''
   css_class: ''
+content:
+  filters:
+    tags:
+      - '2023-2024'
+
 ---
 New projects will appear here as they are accepted into the VXML program. To get
 an idea of existing successful projects see the

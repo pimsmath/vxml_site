@@ -48,10 +48,10 @@ If you have an idea for a project please complete the project proposal form to
 get the process started.  Please don't hesitate to contact us if you have
 questions about proposing a project. 
 
-{{< cta-disabled cta_text="Propose a project (not currently open)"
+{{< cta cta_text="Propose a project"
 cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
 
-Project submissions closed on **September 16th**.
+Project submissions closed on **September 30th**.
 
 
 ### Get involved as... a Graduate Student Mentor
@@ -66,6 +66,6 @@ Graduate student mentors will receive a modest ($500 CAD) stipend, for their
 participation.
 
 
-{{< cta cta_text="Be a mentor"
+{{< cta-disabled cta_text="Be a mentor (not yet open)"
 cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" >}}
 

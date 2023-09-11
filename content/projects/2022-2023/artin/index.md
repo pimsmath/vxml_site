@@ -23,6 +23,9 @@ image:
   focal_point: "top"
   preview_only: false
   alt_text: Poster for Generalizations of Artin's constant
+
+tags:
+ - '2022-2023'
 ---
 
 ## Project Leader

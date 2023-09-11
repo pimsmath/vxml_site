@@ -25,6 +25,9 @@ image:
   focus: top
   preview_only: false
   alt_text: Poster for Combinatorics and Knot Theory for RNA-DNA Complexes
+
+tags:
+  - '2022-2023'
 ---
 
 ## Project Leaders

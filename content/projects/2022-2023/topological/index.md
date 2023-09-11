@@ -26,6 +26,8 @@ image:
   preview_only: false
   alt_text: Poster for Topological data analysis
 
+tags:
+  - '2022-2023'
 ---
 ## Project Leader
   * [Derek Krepski](/authors/krepski/), University of Manitoba

@@ -24,6 +24,8 @@ image:
   preview_only: false
   alt_text: Poster for Genome-wide assosciation study on gene pathway identification and cognitive function prediction
 
+tags:
+  - '2022-2023'
 ---
 
 ## Project Leader
