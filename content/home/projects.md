@@ -20,6 +20,6 @@ content:
 
 ---
 New projects will appear here as they are accepted into the VXML program. To get
-an idea of existing successful projects see the
-[Washington eXperimntal Mathematics Lab (WXML)](https://www.wxml.math.washington.edu/?page_id=1272) projects.
+an idea of existing successful projects see the 
+[Past Projects](/#past-projects) section.
 
