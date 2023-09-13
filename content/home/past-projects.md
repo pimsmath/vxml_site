@@ -16,6 +16,6 @@ advanced:
 content:
   filters:
     tags:
-      - 2022-2023
+      - '2022-2023'
 ---
 Here are some completed projects from previous iterations of the VXML program.
