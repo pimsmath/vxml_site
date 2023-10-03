@@ -14,7 +14,7 @@ summary: |
   machine learning model for prediction of multiple cognitive outcomes related
   to Alzheimer's Disease.
 url_code: ""
-url_pdf: "/projects/genome/Genome-paper.pdf"
+url_pdf: "/projects/2022-2023/genome/Genome-paper.pdf"
 url_poster: "Genome-poster.pdf"
 url_video: ""
 

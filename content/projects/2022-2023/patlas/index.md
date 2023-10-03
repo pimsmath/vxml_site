@@ -12,7 +12,7 @@ summary: |
   groups: computing multiplicity matrices for admissible representations.
 
 url_code: ""
-url_pdf: "/projects/patlas/pAtlas-paper.pdf"
+url_pdf: "/projects/2022-2023/patlas/pAtlas-paper.pdf"
 url_poster: "pAtlas-poster.pdf"
 url_video: ""
 

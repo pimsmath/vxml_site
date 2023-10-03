@@ -16,7 +16,7 @@ summary: |
   This has applications in linear algebra, control theory and statistical
   inference and is also theoretically significant.
 url_code: ""
-url_pdf: "/projects/subspaces/subspaces-paper.pdf"
+url_pdf: "/projects/2022-2023/subspaces/subspaces-paper.pdf"
 url_poster: "subspaces-poster.pdf"
 url_video: ""
 

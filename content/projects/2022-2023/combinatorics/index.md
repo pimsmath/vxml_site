@@ -16,7 +16,7 @@ summary: |
   3-stranded polymers such as R-loops. An R-loop is a 3 stranded structure
   composed of a DNA-RNA complex and another single strand of DNA.
 url_code: ""
-url_pdf: "/projects/combinatorics/combinatorics-paper.pdf"
+url_pdf: "/projects/2022-2023/combinatorics/combinatorics-paper.pdf"
 url_poster: "combinatorics-poster.pdf"
 url_video: ""
 

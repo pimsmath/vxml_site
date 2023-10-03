@@ -15,7 +15,7 @@ summary: |
 
 url_code: ""
 url_poster: "artin-poster.pdf"
-url_pdf: "/projects/artin/artin-paper.pdf"
+url_pdf: "/projects/2022-2023/artin/artin-paper.pdf"
 url_video: ""
 
 image:

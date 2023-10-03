@@ -16,7 +16,7 @@ summary: |
   fundamentals of topological data analysis and apply them to areas of current
   interest at the interface of geometry, topology and physics.
 url_code: ""
-url_pdf: "/projects/topological/topological-paper.pdf"
+url_pdf: "/projects/2022-2023/topological/topological-paper.pdf"
 url_poster: "topological-poster.pdf"
 url_video: ""
 
