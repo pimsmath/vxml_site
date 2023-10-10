@@ -21,5 +21,6 @@ content:
 ---
 New projects will appear here as they are accepted into the VXML program. To get
 an idea of existing successful projects see the 
-[Past Projects](/#past-projects) section.
+[Past Projects](/#past-projects) section. If you are interested in submitting a
+project, please see the [Get Involved](/#get-involved) section.
 
