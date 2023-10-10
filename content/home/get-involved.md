@@ -11,29 +11,6 @@ section below and get in touch. We anticipate supporting 4-5 projects each year
 with each project consisting of a faculty member or postdoc, a graduate mentor
 and 2-4 undergraduates.
 
-### Get involved as... an Undergraduate
-PIMS VXML is all about getting undergraduate students involved in research
-mathematics. Motivated students will work with leading researchers on exciting
-projects and perform cutting edge mathematical research.
-
-PIMS VXML is open to undergraduate students at any of the <a
-href="https://pims.math.ca/">PIMS Member or Affiliate Member Universities</a>.
-You must be prepared to commit around 6-8 hours per week working on the
-project and meeting with the other members of your project team. When applying
-you'll be asked to tell us about your mathematical interests and pick from a
-list of potential projects.
-
-Upon completion, undergraduate team members will receive a certificate from PIMS
-attesting to their participation in undergraduate research in the mathematical
-sciences via the VXML.
-
-{{< cta-disabled cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
-
-Student applications will open soon and will close on **October 22nd**. The
-complete list of projects should be available on _October 15th_.
-
-
-
 ### Get involved as... a Faculty Member or Postdoc
 Any faculty member or postdoctoral researcher at a PIMS Member or Affiliate
 Member University can propose projects for the VXML program.  From prior
@@ -55,6 +32,29 @@ cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
 
 Project submissions will close on **October 15th**. Projects will be compiled and
 added to the website by _October 15th_.
+
+
+
+### Get involved as... an Undergraduate
+PIMS VXML is all about getting undergraduate students involved in research
+mathematics. Motivated students will work with leading researchers on exciting
+projects and perform cutting edge mathematical research.
+
+PIMS VXML is open to undergraduate students at any of the <a
+href="https://pims.math.ca/">PIMS Member or Affiliate Member Universities</a>.
+You must be prepared to commit around 6-8 hours per week working on the
+project and meeting with the other members of your project team. When applying
+you'll be asked to tell us about your mathematical interests and pick from a
+list of potential projects.
+
+Upon completion, undergraduate team members will receive a certificate from PIMS
+attesting to their participation in undergraduate research in the mathematical
+sciences via the VXML.
+
+{{< cta-disabled cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
+
+Student applications will open soon and will close on **October 22nd**. The
+complete list of projects should be available on _October 15th_.
 
 
 ### Get involved as... a Graduate Student Mentor
