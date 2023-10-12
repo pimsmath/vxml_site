@@ -53,7 +53,7 @@ sciences via the VXML.
 
 {{< cta-disabled cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
 
-Student applications will open soon and will close on **October 22nd**. The
+Student applications will open soon and will close on **October 29nd**. The
 complete list of projects should be available on _October 15th_.
 
 
@@ -72,6 +72,6 @@ participation.
 {{< cta-disabled cta_text="Be a mentor"
 cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" >}}
 
-Project submissions will open soon and will close on **October 22nd**. The
+Project submissions will open soon and will close on **October 29nd**. The
 complete list of projects should be available on _October 15th_.
 
