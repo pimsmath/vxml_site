@@ -27,11 +27,11 @@ If you have an idea for a project please complete the project proposal form to
 get the process started.  Please don't hesitate to contact us if you have
 questions about proposing a project. 
 
-{{< cta cta_text="Propose a project"
+{{< cta-disabled cta_text="Propose a project"
 cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
 
-Project submissions will close on **October 15th**. Projects will be compiled and
-added to the website by _October 15th_.
+Project submissions are now. Selected project applications will be notified by
+email and project details will be added to this website shortly.
 
 
 
@@ -51,10 +51,10 @@ Upon completion, undergraduate team members will receive a certificate from PIMS
 attesting to their participation in undergraduate research in the mathematical
 sciences via the VXML.
 
-{{< cta-disabled cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
+{{< cta cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
 
-Student applications will open soon and will close on **October 29th**. The
-complete list of projects should be available on _October 15th_.
+Student applications are now open and will close on **October 29th**. Full
+project descriptions will be available on this site shortly.
 
 
 ### Get involved as... a Graduate Student Mentor
@@ -69,9 +69,9 @@ Graduate student mentors will receive a modest ($500 CAD) stipend, for their
 participation.
 
 
-{{< cta-disabled cta_text="Be a mentor"
+{{< cta cta_text="Be a mentor"
 cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" >}}
 
-Project submissions will open soon and will close on **October 29th**. The
-complete list of projects should be available on _October 15th_.
+Project submissions are now open soon and will close on **October 29th**. Full
+project descriptions will be available on this site shortly.
 

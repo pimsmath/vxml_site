@@ -4,9 +4,10 @@ headless: true
 active: true
 weight: 1
 title: >-
-   The 2023-2024 edition of PIMS VXML is now open for procect applications. The
-   deadline for new projects is *October 15th*. New projects will be added to the
-   [projects section](#projects) as they are accepted. Student and graduate student
-   applications will open soon and will be open until *October 22nd*.
+   The 2023-2024 edition of PIMS VXML is now open for student-member and
+   graduate-mentor applications. The deadline for applications is **October
+   29th**. All of the selected projects are available on the application forms
+   and extended project details for each project will be available on this site
+   shortly.
 ---
 
