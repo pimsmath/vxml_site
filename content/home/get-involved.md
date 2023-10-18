@@ -11,29 +11,6 @@ section below and get in touch. We anticipate supporting 4-5 projects each year
 with each project consisting of a faculty member or postdoc, a graduate mentor
 and 2-4 undergraduates.
 
-### Get involved as... a Faculty Member or Postdoc
-Any faculty member or postdoctoral researcher at a PIMS Member or Affiliate
-Member University can propose projects for the VXML program.  From prior
-experience, successful projects usually have some computational element that
-students get into while learning the relevant background, and have achievable
-intermediate goals.
-
-The projects will be advertised to students on this website and should include
-details on the areas of mathematical interest and any prerequisites they have.
-We also ask that each project sponsor nominate a graduate student to help bridge
-the gap between research and undergraduate.
-
-If you have an idea for a project please complete the project proposal form to
-get the process started.  Please don't hesitate to contact us if you have
-questions about proposing a project. 
-
-{{< cta-disabled cta_text="Propose a project"
-cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
-
-Project submissions are now. Selected project applications will be notified by
-email and project details will be added to this website shortly.
-
-
 
 ### Get involved as... an Undergraduate
 PIMS VXML is all about getting undergraduate students involved in research
@@ -74,4 +51,27 @@ cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" >}}
 
 Project submissions are now open soon and will close on **October 29th**. Full
 project descriptions will be available on this site shortly.
+
+### Get involved as... a Faculty Member or Postdoc
+Any faculty member or postdoctoral researcher at a PIMS Member or Affiliate
+Member University can propose projects for the VXML program.  From prior
+experience, successful projects usually have some computational element that
+students get into while learning the relevant background, and have achievable
+intermediate goals.
+
+The projects will be advertised to students on this website and should include
+details on the areas of mathematical interest and any prerequisites they have.
+We also ask that each project sponsor nominate a graduate student to help bridge
+the gap between research and undergraduate.
+
+If you have an idea for a project please complete the project proposal form to
+get the process started.  Please don't hesitate to contact us if you have
+questions about proposing a project. 
+
+{{< cta-disabled cta_text="Propose a project"
+cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
+
+Project submissions are now. Selected project applications will be notified by
+email and project details will be added to this website shortly.
+
 
