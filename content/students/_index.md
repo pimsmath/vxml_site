@@ -3,11 +3,6 @@ title: "Information for Participants"
 date: 2023-02-27T16:19:50-08:00
 draft: false
 ---
-{{< alert primary >}}
-  VXML Wrap Up meeting will be **Wed, April 5th**. Posters and Final reports are
-  due **Friday, April 14th**.
-{{< /alert >}}
-
 
 At the end each iteration of the VXML program, the undergraduate participants
 should complete a poster, a written report, and give a talk about their
@@ -46,7 +41,8 @@ a couple of templates for you:
     recent/Lua based $\LaTeX$ installation
 
 The source files for both of these posters are included in the [VXML template
-library](./vxml-templates.zip). 
+library](./vxml-templates.zip).  You can see examples of posters from previous
+successful VXML projects in the [past projects](/#past-projects) section.
 
 
 ## Final Report
@@ -63,7 +59,9 @@ format your report. Instructions for using these templates can be found in the
 github](https://github.com/pimsmath/vxml-final-reports). The report should be 3
 or more pages in length and should be written in the style of a scientific
 article. You will be asked to submit the $\LaTeX$ or Markdown source of your
-report along with a PDF version.
+report along with a PDF version. You can see examples of final reports from
+previous successful VXML projects in the [past-projects](/#past-projects)
+section.
 
 {{< cta cta_text="Download Templates" cta_link="vxml-templates.zip" >}}
 
