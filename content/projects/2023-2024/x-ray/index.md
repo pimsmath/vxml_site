@@ -4,7 +4,7 @@ subtitle: ""
 date: 2023-10-15T17:10:20-07:00
 authors:
   - bezdek
-draft: false
+draft: true
 summary: |
   In this project we use computational techniques examine properties of convex
   polytopes. The goal of the project is to help prove or disprove the
