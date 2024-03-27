@@ -1,7 +1,7 @@
 ---
 widget: announcement
 headless: true
-active: true
+active: false
 weight: 1
 title: >-
    *EXTENDED DEADLINE*: The 2023-2024 edition of PIMS VXML is now open for
