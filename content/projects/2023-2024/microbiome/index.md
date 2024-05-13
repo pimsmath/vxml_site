@@ -10,8 +10,8 @@ summary: |
   sequencing data to try to overcome limitations in modern sequencing
   technologies.
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "/projects/2023-2024/microbiome/microbiome-report.pdf"
+url_poster: "microbiome-poster.pdf"
 url_video: ""
 
 tags:

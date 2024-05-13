@@ -18,8 +18,8 @@ summary: |
   intuitions regarding the behavior of the respective graph classes.
 
 url_code: ""
-url_pdf: ""
-url_poster: ""
+url_pdf: "/projects/2023-2024/boxicity/boxicity-paper.pdf"
+url_poster: "boxicity-poster.pdf"
 url_video: ""
 
 #image:
