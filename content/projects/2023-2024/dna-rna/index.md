@@ -5,6 +5,11 @@ date: 2023-10-15T17:10:20-07:00
 authors:
   - soteros
   - ferrari
+  - mschmirler
+  - skaur
+  - msun
+  - onumedahl
+  - bwilliams
 draft: false
 summary: |
   In this project, students will develop techniques from knot theory and

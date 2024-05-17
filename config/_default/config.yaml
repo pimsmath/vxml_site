@@ -29,6 +29,7 @@ module:
 ## ADVANCED
 ############################
 
+#uglyURLs: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -45,6 +46,15 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+outputFormats:
+  m2piCertFormat: 
+    name: cert
+    baseName: cert/index
+    mediatype: text/html
+    rel: alternate
+    isHTML: true
+    #noUgly: true
+    permalinkable: true
 imaging:
   resampleFilter: lanczos
   quality: 75

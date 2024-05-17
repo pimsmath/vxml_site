@@ -4,6 +4,10 @@ subtitle: ""
 date: 2023-10-15T17:10:20-07:00
 authors:
   - juxin
+  - hwu
+  - mchen
+  - pchen
+  - ali
 draft: false
 summary: |
   In this project, students will tackle the problem of handling zeros in
