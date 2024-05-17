@@ -5,6 +5,10 @@ date: 2023-10-15T17:10:20-07:00
 authors:
   - caoduro
   - wevans
+  - aadnan
+  - mbarclay
+  - jchilds
+  - tgaede
 
 draft: false
 summary: |

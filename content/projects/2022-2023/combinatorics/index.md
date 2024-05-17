@@ -5,8 +5,8 @@ date: 2022-08-15T17:10:20-07:00
 authors:
   - soteros
   - ferrari
-  - schmirler
-  - sun
+  - mschmirler
+  - msun
   - shvets
   - li
 draft: false
