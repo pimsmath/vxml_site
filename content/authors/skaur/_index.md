@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shruti Karen Kaur
+title: Shruti Kaur
 
 # Username (this should match the folder name)
 authors:
