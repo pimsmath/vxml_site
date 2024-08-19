@@ -4,9 +4,9 @@ headless: true
 active: true
 weight: 10
 title: PIMS Virtual Experimental Mathematics Lab (VXML)
-cta:
-  url: '#get-involved'
-  label: Begin...
+#cta:
+#  url: '#get-involved'
+#  label: Begin...
 
 design:
   background:
@@ -14,10 +14,8 @@ design:
     gradient_end: '#005cb9'
     text_color_light: true
 ---
-The PIMS Virtual Experimental Mathematics Lab (VXML), brings together faculty
-& postdocs with graduate and undergraduate students from across the PIMS network
-to work on challenging and exciting research mathematics questions.
-
-To learn more, see the [about section](#about) and if you are a faculty member,
-postdoc, graduate or undergraduate student at a PIMS member university and you
-want to [get involved](#get-involved), please get in touch!
+Beginning in the 2024-2025 academic year, PIMS is working toward supporting more
+in-person programs at its member sites, so will be transitioning the VXML
+program to a program providing support to these local XML activities. Calls for
+new XML projects at these sites will be conducted locally. Students wishing to
+participate in a local XML should visit the the XML at their PIMS site below.

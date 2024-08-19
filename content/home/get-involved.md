@@ -6,72 +6,50 @@ weight: 40
 title: Get Involved
 ---
 
-If you'd like to get involved with the VXML, please find the relevant
-section below and get in touch. We anticipate supporting 4-5 projects each year
-with each project consisting of a faculty member or postdoc, a graduate mentor
-and 2-4 undergraduates.
+Beginning in the 2024-2025 academic year, PIMS is working toward supporting more
+in-person programs at its member sites, so will be transitioning the VXML
+program to a program providing support to these local XML activities. Calls for
+new XML projects at these sites will be conducted locally. Students wishing to
+participate in a local XML should visit the the XML at their PIMS site below.
+
+  * [WXML at the University of Washington <i class="fa fa-external-link"></i>](https://wxml.math.washington.edu/)
+  * [MXML at the University of
+    Manitoba <i class="fa fa-external-link"></i>](https://sites.google.com/view/mxml/home)
+  * [QuantTA at the University of
+    Saskatchewan <i class="fa fa-external-link"></i>](https://artsandscience.usask.ca/quanta/)
 
 
-### Get involved as... an Undergraduate
-PIMS VXML is all about getting undergraduate students involved in research
-mathematics. Motivated students will work with leading researchers on exciting
-projects and perform cutting edge mathematical research.
+PIMS also hopes to expand this list of local XML sites as the program grows. In
+addition to financial support for stipends and lab events etc., PIMS can offer
+administrative support by sharing draft project solicitation and application
+forms, and consultation on best practices for creating a new XML. If you are a
+faculty member at a [PIMS member
+institution <i class="fa fa-external-link"></i>](https://www.pims.math.ca/pims-sites) and are considering setting up
+a new XML, please see below for more details and [contact
+us](#contact) if you would like to apply.
 
-PIMS VXML is open to undergraduate students at any of the <a
-href="https://pims.math.ca/">PIMS Member or Affiliate Member Universities</a>.
-You must be prepared to commit around 6-8 hours per week working on the
-project and meeting with the other members of your project team. When applying
-you'll be asked to tell us about your mathematical interests and pick from a
-list of potential projects.
+### XML Coordinator Responsibilities
+As an XML lab coordinator, you will be responsible for soliciting and selecting
+new XML projects from postdocs at your site each year. This is typically done in
+the weeks before the start of the fall term, so that you can start advertising
+the selected projects to undergraduate students at the beginning of term.
 
-Upon completion, undergraduate team members will receive a certificate from PIMS
-attesting to their participation in undergraduate research in the mathematical
-sciences via the VXML.
+Once students start applying, you will need to assign them to projects, matching
+their skills and attributes with the needs of the project to build effective
+teams. Next you will need to arrange a kick off meeting three or four weeks into
+the term, to set expectations for all participants and to connect the groups
+with any resources you can offer them (e.g. computational resources).
 
-{{< cta cta_text="Apply" cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_6MCdZFDzYmkNJci" >}}
+Throughout the term, you should stay in close contact with the project mentors
+to help them address any challenges they are facing and to make sure they have
+realistic goals and a good chance of achieving them. You may wish to organize
+periodic check-in meetings to stay on top of this.
 
-Student applications are now open and will close on **November 5th**. Full
-project descriptions will be available on this site shortly.
-
-
-### Get involved as... a Graduate Student Mentor
-
-Graduate students mentors work closely with their faculty lead and the
-undergraduate students, providing an anchor for the project. You must be a
-graduate student at a PIMS member (or affiliate member) university and you must
-be in at least your second year. You should expect to commit 6-8 hours per week
-to the project, including team meetings.
-
-Graduate student mentors will receive a modest ($500 CAD) stipend, for their
-participation.
-
-
-{{< cta cta_text="Be a mentor"
-cta_link="https://ubc.ca1.qualtrics.com/jfe/form/SV_eRrWzn6IXOrEmfY" >}}
-
-Project submissions are now open soon and will close on **November 5th**. Full
-project descriptions will be available on this site shortly.
-
-### Get involved as... a Faculty Member or Postdoc
-Any faculty member or postdoctoral researcher at a PIMS Member or Affiliate
-Member University can propose projects for the VXML program.  From prior
-experience, successful projects usually have some computational element that
-students get into while learning the relevant background, and have achievable
-intermediate goals.
-
-The projects will be advertised to students on this website and should include
-details on the areas of mathematical interest and any prerequisites they have.
-We also ask that each project sponsor nominate a graduate student to help bridge
-the gap between research and undergraduate.
-
-If you have an idea for a project please complete the project proposal form to
-get the process started.  Please don't hesitate to contact us if you have
-questions about proposing a project. 
-
-{{< cta-disabled cta_text="Propose a project"
-cta_link="https://vxml.pims.math.ca/apply-project" cta_new_tab="false" >}}
-
-Project submissions are now. Selected project applications will be notified by
-email and project details will be added to this website shortly.
-
+Two or three months before the end of the academic year, you should contact all
+of the project members to arrange a wrap-up meeting. This meeting is typically
+held at the end of the term, and can be tricky to schedule with the exams and
+other responsibilities the students have. At the wrap up meeting, students
+should present their work to all of the XML members for feedback. Finally, a
+written report should be prepared by the students a few weeks after the end of
+term.
 

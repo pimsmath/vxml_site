@@ -3,7 +3,7 @@ widget: portfolio
 headless: true
 active: true
 weight: 30
-title: 'Projects'
+title: 'Recent Projects'
 subtitle: ''
 design:
   columns: '1'
@@ -19,8 +19,4 @@ content:
       - '2023-2024'
 
 ---
-New projects will appear here as they are accepted into the VXML program. To get
-an idea of existing successful projects see the 
-[Past Projects](/#past-projects) section. If you are interested in submitting a
-project, please see the [Get Involved](/#get-involved) section.
 
