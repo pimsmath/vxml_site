@@ -6,11 +6,9 @@ weight: 40
 title: Get Involved
 ---
 
-Beginning in the 2024-2025 academic year, PIMS is working toward supporting more
-in-person programs at its member sites, so will be transitioning the VXML
-program to a program providing support to these local XML activities. Calls for
-new XML projects at these sites will be conducted locally. Students wishing to
-participate in a local XML should visit the the XML at their PIMS site below.
+To get involved in the XML program as a participant, please select one of the
+local sites below.  Each XML organizes it's own call for projects and
+participants so deadlines may vary.
 
   * [WXML at the University of Washington <i class="fa fa-external-link"></i>](https://wxml.math.washington.edu/)
   * [MXML at the University of
@@ -19,14 +17,15 @@ participate in a local XML should visit the the XML at their PIMS site below.
     Saskatchewan <i class="fa fa-external-link"></i>](https://artsandscience.usask.ca/quanta/)
 
 
-PIMS also hopes to expand this list of local XML sites as the program grows. In
-addition to financial support for stipends and lab events etc., PIMS can offer
-administrative support by sharing draft project solicitation and application
-forms, and consultation on best practices for creating a new XML. If you are a
-faculty member at a [PIMS member
-institution <i class="fa fa-external-link"></i>](https://www.pims.math.ca/pims-sites) and are considering setting up
-a new XML, please see below for more details and [contact
-us](#contact) if you would like to apply.
+PIMS is currently working to expand this list of local XML sites. If you are a
+faculty member at a [PIMS member institution <i class="fa
+fa-external-link"></i>](https://www.pims.math.ca/pims-sites) who is interested
+in starting an XML, please see the "Coordinator Responsibilities" below for
+more details of what is involved. PIMS may be able to offer (limited) financial
+and administrative support to get your lab started. An application form for new
+XML will soon be available, but in the meantime, please [contact us](#contact)
+if you would like to start a new lab.
+
 
 ### XML Coordinator Responsibilities
 As an XML lab coordinator, you will be responsible for soliciting and selecting
