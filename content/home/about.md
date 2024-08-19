@@ -6,20 +6,24 @@ weight: 20
 title: About VXML/XML
 columns: 2
 ---
-Beginning in the 2024-2025 academic year, PIMS is working toward supporting more
-in-person programs at its member sites, so will be transitioning the VXML
-program to a program providing support to these local XML activities. Calls for
-new XML projects at these sites will be conducted locally. Students wishing to
-participate in a local XML should visit the the XML at their PIMS site below.
+XML projects consist of a research project proposed by a faculty member and a
+team made up of the faculty member, a graduate student mentor and a small group
+of undergraduate students. These teams work together over the course of the
+academic year to tackle the problem, typically using a mixture of computational
+tools such as CoCalc or Jupyter.
+
+To get involved with the XML program, please select one of the local sites
+below. Each XML organizes it's own call for projects and participants so
+deadlines may vary.
 
   * [WXML at the University of Washington <i class="fa fa-external-link"></i>](https://wxml.math.washington.edu/)
   * [MXML at the University of Manitoba <i class="fa fa-external-link"></i>](https://sites.google.com/view/mxml/home)
   * [QuantTA at the University of Saskatchewan <i class="fa fa-external-link"></i>](https://artsandscience.usask.ca/quanta/)
 
-PIMS also hopes to expand this list of local XML sites and can offer, in
-addition to financial support for stipends and lab events, administrative
-support by sharing draft project solicitation and application forms, and
-consultation on best practices for XMLs.
+PIMS is currently working to expand this list of local XML sites. If you are a
+faculty member at a PIMS Member Institution who is interested in setting up a
+new XML, please see the see the [get involved](#get-involved) section for more
+information about how PIMS can help you get started.
 
 
 ### How it works...
