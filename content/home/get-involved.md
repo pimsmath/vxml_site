@@ -22,9 +22,9 @@ faculty member at a [PIMS member institution <i class="fa
 fa-external-link"></i>](https://www.pims.math.ca/pims-sites) who is interested
 in starting an XML, please see the "Coordinator Responsibilities" below for
 more details of what is involved. PIMS may be able to offer (limited) financial
-and administrative support to get your lab started. An application form for new
-XML will soon be available, but in the meantime, please [contact us](#contact)
-if you would like to start a new lab.
+and administrative support to get your lab started. For more information, or to
+begin the process of starting a new local XML, please complete the [Starting a
+New XML form <i class="fa fa-external-link"></i>](https://www.pims.math.ca/form/create-a-new-xml).
 
 
 ### XML Coordinator Responsibilities
